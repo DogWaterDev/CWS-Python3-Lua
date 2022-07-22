@@ -1,0 +1,1 @@
+The CWS-Python System is a water simulation system using the Shallow Water Equation. Written in Python3. Originally intended for use in a Roblox game.
